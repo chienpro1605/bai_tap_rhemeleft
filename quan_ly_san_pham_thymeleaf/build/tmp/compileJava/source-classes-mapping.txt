@@ -1,0 +1,12 @@
+chien/pro/controller/ProductController.java
+ chien.pro.controller.ProductController
+chien/pro/service/IProductService.java
+ chien.pro.service.IProductService
+chien/pro/model/Product.java
+ chien.pro.model.Product
+chien/pro/configuration/AppConfiguration.java
+ chien.pro.configuration.AppConfiguration
+chien/pro/configuration/AppInitializer.java
+ chien.pro.configuration.AppInitializer
+chien/pro/service/ProductService.java
+ chien.pro.service.ProductService
